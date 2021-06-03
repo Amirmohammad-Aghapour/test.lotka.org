@@ -1,1 +1,1 @@
-# test.lotka.org
+# Lotka.org
